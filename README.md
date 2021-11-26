@@ -11,3 +11,4 @@ A collection of articles,videos and other resources which cover important comput
 - [Protocol hierarchies(organization of a network into layers)](https://www.geeksforgeeks.org/protocol-hierarchies-in-computer-network/)
 - [Issues to be taken care of while designing layers](https://www.tutorialspoint.com/Design-Issues-for-the-Layers-of-Computer-Networks)
 - [Connection oriented and connectionless services](https://www.geeksforgeeks.org/difference-between-connection-oriented-and-connection-less-services/)
+- [The ISO OSI Model (Open Systems Interconnection Model)](https://github.com/2tanayk/Computer-Network-Notes/blob/main/osi.md)
