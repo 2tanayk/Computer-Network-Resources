@@ -19,6 +19,7 @@ A collection of articles,videos and other resources which cover important comput
 - [Transmission media](https://github.com/2tanayk/Computer-Network-Notes/blob/main/transmission_media.md)
 ### The Data Link Layer
 - [The data link layer and its functions](https://github.com/2tanayk/Computer-Network-Notes/blob/main/data_link_layer.md)
+- [Flow control in the data link layer](https://www.tutorialspoint.com/flow-control-in-data-link-layer)
 ### The Network Layer
 ### The Transport Layer
 ### The Session Layer
