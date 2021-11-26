@@ -8,3 +8,4 @@ A collection of articles,videos and other resources which cover important comput
 - [Applications of computer networks](https://www.tutorialspoint.com/Uses-of-Computer-Networks)
 - [Network software and hardware components](https://github.com/2tanayk/Computer-Network-Notes/blob/main/interconnecting_devices.md)
 - [Types of network topology](https://www.geeksforgeeks.org/types-of-network-topology/)
+- [Protocol hierarchies](https://www.geeksforgeeks.org/protocol-hierarchies-in-computer-network/)
