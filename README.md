@@ -10,3 +10,4 @@ A collection of articles,videos and other resources which cover important comput
 - [Types of network topology](https://www.geeksforgeeks.org/types-of-network-topology/)
 - [Protocol hierarchies(organization of a network into layers)](https://www.geeksforgeeks.org/protocol-hierarchies-in-computer-network/)
 - [Issues to be taken care of while designing layers](https://www.tutorialspoint.com/Design-Issues-for-the-Layers-of-Computer-Networks)
+- [Connection oriented and connectionless services](https://www.geeksforgeeks.org/difference-between-connection-oriented-and-connection-less-services/)
