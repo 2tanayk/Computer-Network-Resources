@@ -15,6 +15,7 @@ A collection of articles,videos and other resources which cover important comput
 - [The TCP/IP model](https://github.com/2tanayk/Computer-Network-Notes/blob/main/tcp_ip.md)
 
 ### The Physical Layer
+- [The physical layer of the OSI Model](https://github.com/2tanayk/Computer-Network-Notes/blob/main/physical_layer.md)
 ### The Data Link Layer
 ### The Network Layer
 ### The Transport Layer
