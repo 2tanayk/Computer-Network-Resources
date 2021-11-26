@@ -23,6 +23,7 @@ A collection of articles,videos and other resources which cover important comput
 - [The High level Data Link Control(HDLC) protocol](https://github.com/2tanayk/Computer-Network-Notes/blob/main/hdlc.md)
 - [Framing in data link layer](https://github.com/2tanayk/Computer-Network-Notes/blob/main/framing.md)
 - [Flow control in the data link layer](https://www.tutorialspoint.com/flow-control-in-data-link-layer)
+- [Error detection and correction in data link layer](https://github.com/2tanayk/Computer-Network-Notes/blob/main/error_data_link.md)
 ### The Network Layer
 ### The Transport Layer
 ### The Session Layer
