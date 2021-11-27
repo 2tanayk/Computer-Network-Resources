@@ -25,6 +25,7 @@ A collection of articles,videos and other resources which cover important comput
 - [Flow control in the data link layer](https://www.tutorialspoint.com/flow-control-in-data-link-layer)
 - [Error detection and correction in data link layer](https://github.com/2tanayk/Computer-Network-Notes/blob/main/error_data_link.md)
 - [Channel allocation problem](https://www.geeksforgeeks.org/channel-allocation-problem-in-computer-network/)
+- [Multiple access protocols](https://www.javatpoint.com/multiple-access-protocols)
 ### The Network Layer
 ### The Transport Layer
 ### The Session Layer
