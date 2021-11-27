@@ -9,5 +9,5 @@
 - [IPv4 subnetting](https://www.tutorialspoint.com/ipv4/ipv4_subnetting.htm)
 - [Disadvantages of classful addressing(video)(hindi)](https://youtu.be/ARfwnD6X6ZI)
 - [Classful vs Classless, Disadvantages of classful](https://www.geeksforgeeks.org/classful-vs-classless-addressing/)
-- [IPv4 classless addressing, CIDR vs classful(video)(hindi)](https://youtu.be/N-ywmOpWehE)
+- [IPv4 classless addressing, CIDR(Classless Inter-Domain Routing) vs classful(video)(hindi)](https://youtu.be/N-ywmOpWehE)
 - [IPv4 classless addressing](https://www.geeksforgeeks.org/ip-addressing-classless-addressing/)
