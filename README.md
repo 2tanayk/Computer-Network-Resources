@@ -24,6 +24,7 @@ A collection of articles,videos and other resources which cover important comput
 - [Framing in data link layer](https://github.com/2tanayk/Computer-Network-Notes/blob/main/framing.md)
 - [Flow control in the data link layer](https://www.tutorialspoint.com/flow-control-in-data-link-layer)
 - [Error detection and correction in data link layer](https://github.com/2tanayk/Computer-Network-Notes/blob/main/error_data_link.md)
+- [Channel allocation problem](https://www.geeksforgeeks.org/channel-allocation-problem-in-computer-network/)
 ### The Network Layer
 ### The Transport Layer
 ### The Session Layer
