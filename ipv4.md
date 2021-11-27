@@ -2,6 +2,7 @@
 - [What is IP address?(video)](https://www.youtube.com/watch?v=8npT9AALbrI)
 - [IPv4 classful addressing(video)](https://youtu.be/Y5yk4UJMq2A)
 - [Introduction to classful IPv4 addressing](https://www.geeksforgeeks.org/introduction-of-classful-ip-addressing/)
+- [Subnet mask in IPv4 classful(video)](url)
 - [5 classes of IPv4 address ](https://www.meridianoutpost.com/resources/articles/IP-classes.php)
 - [IPv4 address classes](https://www.tutorialspoint.com/ipv4/ipv4_address_classes.htm)
 - [Subnetting in classful addressing(video)(hindi)](https://youtu.be/rdb2ki4iGuo)
