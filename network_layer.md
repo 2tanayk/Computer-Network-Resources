@@ -1,2 +1,2 @@
 ### Resources
-- [Responsibilities of the network layer](https://www.youtube.com/watch?v=rW1jPlYgp_0)
+- [Responsibilities of the network layer(video)(hindi)](https://www.youtube.com/watch?v=rW1jPlYgp_0)
