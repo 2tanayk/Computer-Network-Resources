@@ -6,6 +6,8 @@
 - [5 classes of IPv4 address ](https://www.meridianoutpost.com/resources/articles/IP-classes.php)
 - [IPv4 address classes](https://www.tutorialspoint.com/ipv4/ipv4_address_classes.htm)
 - [Subnetting in classful addressing(video)(hindi)](https://youtu.be/rdb2ki4iGuo)
+- [IPv4 subnetting](https://www.tutorialspoint.com/ipv4/ipv4_subnetting.htm)
 - [Disadvantages of classful addressing(video)(hindi)](https://youtu.be/ARfwnD6X6ZI)
+- [Classful vs Classless, Disadvantages of classful](https://www.geeksforgeeks.org/classful-vs-classless-addressing/)
 - [IPv4 classless addressing, CIDR vs classful(video)(hindi)](https://youtu.be/N-ywmOpWehE)
 - [IPv4 classless addressing](https://www.geeksforgeeks.org/ip-addressing-classless-addressing/)
