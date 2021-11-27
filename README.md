@@ -28,6 +28,7 @@ A collection of articles,videos and other resources which cover important comput
 - [Multiple access protocols](https://www.javatpoint.com/multiple-access-protocols)
 ### The Network Layer
 - [The network layer and its functions](https://github.com/2tanayk/Computer-Network-Notes/blob/main/network_layer.md)
+- [Design issues in the network layer](https://www.tutorialspoint.com/network-layer-design-issues)
 ### The Transport Layer
 ### The Session Layer
 ### The Presentation Layer
