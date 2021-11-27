@@ -29,6 +29,7 @@ A collection of articles,videos and other resources which cover important comput
 ### The Network Layer
 - [The network layer and its functions](https://github.com/2tanayk/Computer-Network-Notes/blob/main/network_layer.md)
 - [Design issues in the network layer](https://www.tutorialspoint.com/network-layer-design-issues)
+- [Communication primitives: Unicast, Multicast and Broadcast](https://www.geeksforgeeks.org/difference-between-unicast-broadcast-and-multicast-in-computer-network/)
 ### The Transport Layer
 ### The Session Layer
 ### The Presentation Layer
