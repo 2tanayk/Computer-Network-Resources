@@ -40,6 +40,7 @@ A collection of articles,videos and other resources which cover important comput
 ### The Transport Layer
 - [The transport layer and its functions](https://github.com/2tanayk/Computer-Network-Notes/blob/main/transport_layer.md)
 - [Sockets in transport layer](https://github.com/2tanayk/Computer-Network-Notes/blob/main/socket.md)
+- [The TCP protocol](https://github.com/2tanayk/Computer-Network-Notes/blob/main/tcp.md)
 ### The Session Layer
 ### The Presentation Layer
 ### The Application Layer
