@@ -39,6 +39,7 @@ A collection of articles,videos and other resources which cover important comput
 - [Congestion control algorithms](https://github.com/2tanayk/Computer-Network-Notes/blob/main/cca.md)
 ### The Transport Layer
 - [The transport layer and its functions](https://github.com/2tanayk/Computer-Network-Notes/blob/main/transport_layer.md)
+- [Sockets in transport layer](https://github.com/2tanayk/Computer-Network-Notes/blob/main/socket.md)
 ### The Session Layer
 ### The Presentation Layer
 ### The Application Layer
