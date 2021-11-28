@@ -35,6 +35,7 @@ A collection of articles,videos and other resources which cover important comput
 - [Network Address Translation(NAT)](https://www.geeksforgeeks.org/network-address-translation-nat/)
 - [IPv6 addressing](https://www.geeksforgeeks.org/what-is-ipv6/)
 - [Routing protocols and algorithms](https://github.com/2tanayk/Computer-Network-Notes/blob/main/routing.md)
+- [Network layer protocols](https://github.com/2tanayk/Computer-Network-Notes/blob/main/network_layer_protocols.md)
 ### The Transport Layer
 ### The Session Layer
 ### The Presentation Layer
