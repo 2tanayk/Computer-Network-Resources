@@ -5,3 +5,4 @@
 - [Distance vector algorithm(video)](https://youtu.be/NdKcjKfJocE)
 - [Distance vector routing protocol](https://www.geeksforgeeks.org/distance-vector-routing-dvr-protocol/)
 - [Link state routing protocol(video)](https://youtu.be/sDnIRhiolp8)
+- [Border Gateway Protocol(BGP)](https://www.geeksforgeeks.org/border-gateway-protocol-bgp/)
