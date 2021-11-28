@@ -33,6 +33,7 @@ A collection of articles,videos and other resources which cover important comput
 - [IPv4 addressing(classful and classless) and subnetting](https://github.com/2tanayk/Computer-Network-Notes/blob/main/ipv4.md)
 - [Supernetting and associated design issues](https://www.geeksforgeeks.org/supernetting-in-network-layer/)
 - [Network Address Translation(NAT)](https://www.geeksforgeeks.org/network-address-translation-nat/)
+- [IPv6 addressing](https://www.geeksforgeeks.org/what-is-ipv6/)
 ### The Transport Layer
 ### The Session Layer
 ### The Presentation Layer
