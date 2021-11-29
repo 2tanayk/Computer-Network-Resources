@@ -42,6 +42,7 @@ A collection of articles,videos and other resources which cover important comput
 - [Sockets in transport layer](https://github.com/2tanayk/Computer-Network-Notes/blob/main/socket.md)
 - [The TCP protocol](https://github.com/2tanayk/Computer-Network-Notes/blob/main/tcp.md)
 - [The UDP protocol](https://github.com/2tanayk/Computer-Network-Notes/blob/main/udp.md)
+- [Flow control in transport layer](https://github.com/2tanayk/Computer-Network-Notes/blob/main/transport_flow_ctrl.md)
 ### The Session Layer
 ### The Presentation Layer
 ### The Application Layer
