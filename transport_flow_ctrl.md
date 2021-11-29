@@ -4,6 +4,6 @@
   - [Stop and wait protocol](https://www.youtube.com/watch?v=n09DfvemnTQ)
 - #### Noisy channels
   - [Stop and wait ARQ](https://youtu.be/YdkksvhkQGQ)
-  - ##### [Sliding window protocol](https://youtu.be/LnbvhoxHn8M)
+  - ##### [Sliding window protocol(video)](https://youtu.be/LnbvhoxHn8M)
     - [Go back and ARQ](url)
     - [Selective repeat ARQ](url)
