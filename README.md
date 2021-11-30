@@ -47,4 +47,5 @@ A collection of articles,videos and other resources which cover important comput
 ### The Session Layer
 - [The session layer and its functions](https://github.com/2tanayk/Computer-Network-Notes/blob/main/session_layer.md)
 ### The Presentation Layer
+- [The presentation layer and its functions](https://github.com/2tanayk/Computer-Network-Notes/blob/main/presentation_layer.md)
 ### The Application Layer
