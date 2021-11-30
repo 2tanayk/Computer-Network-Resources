@@ -45,5 +45,6 @@ A collection of articles,videos and other resources which cover important comput
 - [Flow control in the transport layer](https://github.com/2tanayk/Computer-Network-Notes/blob/main/transport_flow_ctrl.md)
 - [Congestion control in the transport layer](https://github.com/2tanayk/Computer-Network-Notes/blob/main/transport_congestion.md)
 ### The Session Layer
+- [The session layer and its functions](https://github.com/2tanayk/Computer-Network-Notes/blob/main/session_layer.md)
 ### The Presentation Layer
 ### The Application Layer
