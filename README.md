@@ -49,3 +49,4 @@ A collection of articles,videos and other resources which cover important comput
 ### The Presentation Layer
 - [The presentation layer and its functions](https://github.com/2tanayk/Computer-Network-Notes/blob/main/presentation_layer.md)
 ### The Application Layer
+- - [The application layer and its functions](https://github.com/2tanayk/Computer-Network-Notes/blob/main/application_layer.md)
