@@ -1,4 +1,4 @@
-# Computer-Network-Resources
+# Computer Network Resources
 
 A collection of articles,videos and other resources which cover important computer network topics.
 
