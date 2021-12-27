@@ -50,3 +50,6 @@ A collection of articles,videos and other resources which cover important comput
 - [The presentation layer and its functions](https://github.com/2tanayk/Computer-Network-Notes/blob/main/presentation_layer.md)
 ### The Application Layer
 - [The application layer and its functions](https://github.com/2tanayk/Computer-Network-Notes/blob/main/application_layer.md)
+
+## Interview Preparation Materials
+- [CN MCQs(chapter wise)](https://www.sanfoundry.com/computer-network-questions-answers/)
