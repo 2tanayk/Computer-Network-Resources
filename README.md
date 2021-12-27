@@ -54,6 +54,7 @@ A collection of articles,videos and other resources which cover important comput
 ### Miscellaneous
 - [What is serial transmission?](https://www.tutorialspoint.com/what-is-serial-transmission)
 - [What is a proxy server?(video)](https://youtu.be/5cPIukqXe5w)
+- [What is a firewall?(video)](https://youtu.be/kDEX1HXybrU)
 
 ## Interview Preparation Materials
 - [CN MCQs(chapter wise)](https://www.sanfoundry.com/computer-network-questions-answers/)
