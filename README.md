@@ -64,6 +64,7 @@ A collection of articles,videos and other resources which cover important comput
 - [P2P in computer networks](https://www.geeksforgeeks.org/what-is-p2ppeer-to-peer-process/)
 - [What are overlay networks?](https://www.sdxcentral.com/networking/sdn/definitions/what-is-overlay-networking/)
 - [What is a VPN?](https://youtu.be/xGjGQ24cXAY)
+- [Internet speed and types](https://www.highspeedinternet.com/resources/the-consumers-guide-to-internet-speed)
 
 ## Interview Preparation Materials
 - [CN MCQs(chapter wise)](https://www.sanfoundry.com/computer-network-questions-answers/)
