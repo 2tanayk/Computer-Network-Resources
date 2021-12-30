@@ -58,6 +58,7 @@ A collection of articles,videos and other resources which cover important comput
 - [The ICMP in IP(video)(hindi)](https://youtu.be/3wyUxsnykAc)
 - [Point-to-Point and Multi-point Communication](https://www.geeksforgeeks.org/line-configuration-computer-networks/)
 - [Types of area networks – LAN, MAN and WAN](https://www.geeksforgeeks.org/types-of-area-networks-lan-man-and-wan/)
+- [LAN vs MAN vs WAN](https://www.geeksforgeeks.org/difference-between-lan-man-and-wan/)
 
 ## Interview Preparation Materials
 - [CN MCQs(chapter wise)](https://www.sanfoundry.com/computer-network-questions-answers/)
