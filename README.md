@@ -61,6 +61,7 @@ A collection of articles,videos and other resources which cover important comput
 - [LAN vs MAN vs WAN](https://www.geeksforgeeks.org/difference-between-lan-man-and-wan/)
 - [Ethernet(video)(YT)](https://youtu.be/MzhiVE6OuQA)
 - [Unicast, Multicast and Broadcast](https://www.geeksforgeeks.org/difference-between-unicast-broadcast-and-multicast-in-computer-network/)
+- [P2P in computer networks](https://www.geeksforgeeks.org/what-is-p2ppeer-to-peer-process/)
 
 ## Interview Preparation Materials
 - [CN MCQs(chapter wise)](https://www.sanfoundry.com/computer-network-questions-answers/)
