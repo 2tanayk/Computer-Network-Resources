@@ -61,12 +61,13 @@ A collection of articles,videos and other resources which cover important comput
 - [Point-to-Point and Multi-point Communication](https://www.geeksforgeeks.org/line-configuration-computer-networks/)
 - [Types of area networks – LAN, MAN and WAN](https://www.geeksforgeeks.org/types-of-area-networks-lan-man-and-wan/)
 - [LAN vs MAN vs WAN](https://www.geeksforgeeks.org/difference-between-lan-man-and-wan/)
-- [Ethernet(video)(YT)](https://youtu.be/MzhiVE6OuQA)
+- [Ethernet(video)](https://youtu.be/MzhiVE6OuQA)
 - [Unicast, Multicast and Broadcast](https://www.geeksforgeeks.org/difference-between-unicast-broadcast-and-multicast-in-computer-network/)
 - [P2P in computer networks](https://www.geeksforgeeks.org/what-is-p2ppeer-to-peer-process/)
 - [What are overlay networks?](https://www.sdxcentral.com/networking/sdn/definitions/what-is-overlay-networking/)
-- [What is a VPN?](https://youtu.be/xGjGQ24cXAY)
+- [What is a VPN?(video)](https://youtu.be/xGjGQ24cXAY)
 - [Internet speed and types](https://www.highspeedinternet.com/resources/the-consumers-guide-to-internet-speed)
+- [What is bandwidth?(video)](https://youtu.be/N4rWBZeAp4s)
 
 ## Interview Preparation Materials
 - [CN MCQs(chapter wise)](https://www.sanfoundry.com/computer-network-questions-answers/)
