@@ -68,6 +68,7 @@ A collection of articles,videos and other resources which cover important comput
 - [What is a VPN?(video)](https://youtu.be/xGjGQ24cXAY)
 - [Internet speed and types](https://www.highspeedinternet.com/resources/the-consumers-guide-to-internet-speed)
 - [What is bandwidth?(video)](https://youtu.be/N4rWBZeAp4s)
+- [Speed vs bandwidth(video)](https://youtu.be/A_-L-kn9biw)
 - [Packet switching and delays in computer network](https://www.geeksforgeeks.org/packet-switching-and-delays-in-computer-network/)
 - [Circuit switching in computer network](https://www.geeksforgeeks.org/circuit-switching-in-computer-network/)
 
