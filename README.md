@@ -17,6 +17,7 @@ A collection of articles,videos and other resources which cover important comput
 ### The Physical Layer
 - [The physical layer and its functions](https://github.com/2tanayk/Computer-Network-Notes/blob/main/physical_layer.md)
 - [Transmission media](https://github.com/2tanayk/Computer-Network-Notes/blob/main/transmission_media.md)
+- [Computer network topologies](https://www.javatpoint.com/computer-network-topologies)
 - [Multiplexing in computer network](https://www.javatpoint.com/multiplexing-in-computer-network)
 ### The Data Link Layer
 - [The data link layer and its functions](https://github.com/2tanayk/Computer-Network-Notes/blob/main/data_link_layer.md)
