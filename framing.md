@@ -7,6 +7,6 @@
     - [HDLC(video)](https://www.youtube.com/watch?v=N2tgsPUPEBE&list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx&index=39)
 
 - Byte oriented approach
-    - [BISYNC](https://www.youtube.com/watch?v=EpVkN6YuDUk&list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx&index=41) 
-    - [PPP](https://www.youtube.com/watch?v=kKCwkRT_U8I&list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx&index=42)
-    - [DDCMP](https://www.youtube.com/watch?v=whsTT8hnbJA&list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx&index=43)
+    - [BISYNC(video)](https://www.youtube.com/watch?v=EpVkN6YuDUk&list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx&index=41) 
+    - [PPP(video)](https://www.youtube.com/watch?v=kKCwkRT_U8I&list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx&index=42)
+    - [DDCMP(video)](https://www.youtube.com/watch?v=whsTT8hnbJA&list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx&index=43)
