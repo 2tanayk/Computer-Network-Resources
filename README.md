@@ -25,7 +25,7 @@ A collection of articles,videos and other resources which cover important comput
 - [Protocols in the data link layer](https://www.geeksforgeeks.org/examples-of-data-link-layer-protocols/)
 - [The High level Data Link Control(HDLC) protocol](https://github.com/2tanayk/Computer-Network-Notes/blob/main/hdlc.md)
 - [Framing in data link layer](https://github.com/2tanayk/Computer-Network-Notes/blob/main/framing.md)
-- [Flow control in the data link layer](https://www.tutorialspoint.com/flow-control-in-data-link-layer)
+- [Flow control in the data link layer](https://github.com/2tanayk/Computer-Network-Resources/blob/main/flow.md)
 - [Error detection and correction in data link layer](https://github.com/2tanayk/Computer-Network-Notes/blob/main/error_data_link.md)
 - [Channel allocation problem](https://www.geeksforgeeks.org/channel-allocation-problem-in-computer-network/)
 - [Multiple access protocols](https://www.javatpoint.com/multiple-access-protocols)
