@@ -29,7 +29,7 @@ A collection of articles,videos and other resources which cover important comput
 - [Error detection and correction in data link layer](https://github.com/2tanayk/Computer-Network-Notes/blob/main/error_data_link.md)
 - [Channel allocation problem](https://www.geeksforgeeks.org/channel-allocation-problem-in-computer-network/)
 - [Delays in computer network](https://www.geeksforgeeks.org/delays-in-computer-network/)
-- [Multiple access protocols](https://www.javatpoint.com/multiple-access-protocols)
+- [Multiple access protocols](https://github.com/2tanayk/Computer-Network-Resources/blob/main/multiple_access_protocol.md)
 ### The Network Layer
 - [The network layer and its functions](https://github.com/2tanayk/Computer-Network-Notes/blob/main/network_layer.md)
 - [Design issues in the network layer](https://www.tutorialspoint.com/network-layer-design-issues)
