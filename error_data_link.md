@@ -3,3 +3,4 @@
 - [Simple parity check(with example)](https://www.gatevidyalay.com/parity-check-parity-bit-error-detection/)
 - [CRC(with example)](https://www.gatevidyalay.com/cyclic-redundancy-check-crc-error-detection/)
 - [Checksum(with example)](https://www.gatevidyalay.com/checksum-checksum-example-error-detection/)
+- [Hamming code(with example)](https://www.geeksforgeeks.org/hamming-code-in-computer-network/)
