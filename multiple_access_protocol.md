@@ -2,4 +2,6 @@
 - [Multiple access protocols](https://www.javatpoint.com/multiple-access-protocols)
 - [What are medium access control protocols(video)(hindi)](https://www.youtube.com/watch?v=G0h0dC4Zycs&list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_&index=31)
 - [Pure aloha(video)(hindi)](https://youtu.be/WYM9nFYnYAg)
+- [Pure aloha](https://www.tutorialspoint.com/pure-aloha)
+- [Slotted aloha](https://www.tutorialspoint.com/slotted-aloha)
 - [Pure vs slotted aloha(video)(hindi)](https://www.youtube.com/watch?v=ggdeb2_z240&list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_&index=33)
