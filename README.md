@@ -34,6 +34,7 @@ A collection of articles,videos and other resources which cover important comput
 - [The network layer and its functions](https://github.com/2tanayk/Computer-Network-Notes/blob/main/network_layer.md)
 - [Design issues in the network layer](https://www.tutorialspoint.com/network-layer-design-issues)
 - [Communication primitives: Unicast, Multicast and Broadcast](https://www.geeksforgeeks.org/difference-between-unicast-broadcast-and-multicast-in-computer-network/)
+- [What is the Internet Protocol(IP)?](https://www.cloudflare.com/en-in/learning/network-layer/internet-protocol/)
 - [IPv4 addressing(classful and classless) and subnetting](https://github.com/2tanayk/Computer-Network-Notes/blob/main/ipv4.md)
 - [Supernetting and associated design issues](https://www.geeksforgeeks.org/supernetting-in-network-layer/)
 - [Network Address Translation(NAT)](https://www.geeksforgeeks.org/network-address-translation-nat/)
@@ -75,6 +76,6 @@ A collection of articles,videos and other resources which cover important comput
 - [Packet switching and delays in computer network](https://www.geeksforgeeks.org/packet-switching-and-delays-in-computer-network/)
 - [Circuit switching in computer network](https://www.geeksforgeeks.org/circuit-switching-in-computer-network/)
 - [Circuit Switching vs Packet Switching(video)](https://youtu.be/oUN-s6aFMTk)
-- [What is the Internet Protocol(IP)?](https://www.cloudflare.com/en-in/learning/network-layer/internet-protocol/)
+
 ## Interview Preparation Materials
 - [CN MCQs(chapter wise)](https://www.sanfoundry.com/computer-network-questions-answers/)
