@@ -1,6 +1,7 @@
 ### Resources
 - [What is IP address?(video)](https://www.youtube.com/watch?v=8npT9AALbrI)
 - [IPv4 header format(video)(hindi)](https://youtu.be/zoFSxIuS5Ro)
+- [IPv4 header format](https://youtu.be/zoFSxIuS5Ro)
 - [Fragmentation of IPv4(video)(hindi)](https://youtu.be/k8VgrqDOIUo)
 - [IPv4 classful addressing(video)](https://youtu.be/Y5yk4UJMq2A)
 - [Introduction to classful IPv4 addressing](https://www.geeksforgeeks.org/introduction-of-classful-ip-addressing/)
