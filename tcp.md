@@ -6,5 +6,6 @@
     - [part 2](https://youtu.be/hsNuqtfxgRI)
 - [TCP connection establishment(3 way handshake) and termination(video)](https://youtu.be/oEUP7RXzxDY)
 - [TCP data transfer(Piggybacking & Pure Acknowledgement)(video)(hindi)](https://youtu.be/7zPfuIf4GL0)
+- [TCP 3 way handshake(video)(hindi)](https://www.youtube.com/watch?v=qIEHUUt2Wfc&list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_&index=66)
 - [TCP state transition diagram(video)(hindi)](https://youtu.be/A0FUxfiYJ3s)
 - [TCP timers](https://www.geeksforgeeks.org/tcp-timers/)
