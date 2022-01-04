@@ -1,7 +1,7 @@
 ### Resources
 - [The TCP protocol](https://www.gatevidyalay.com/transmission-control-protocol-tcp/)
 - [TCP header](https://www.gatevidyalay.com/transmission-control-protocol-tcp-header/)
-- #### TCP explained(video)(hindi)
+- #### TCP header explained(video)(hindi)
     - [part 1](https://youtu.be/c8aet11HNxg)
     - [part 2](https://youtu.be/hsNuqtfxgRI)
 - [TCP connection establishment(3 way handshake) and termination(video)](https://youtu.be/oEUP7RXzxDY)
