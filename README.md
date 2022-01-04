@@ -76,6 +76,7 @@ A collection of articles,videos and other resources which cover important comput
 - [Packet switching and delays in computer network](https://www.geeksforgeeks.org/packet-switching-and-delays-in-computer-network/)
 - [Circuit switching in computer network](https://www.geeksforgeeks.org/circuit-switching-in-computer-network/)
 - [Circuit Switching vs Packet Switching(video)](https://youtu.be/oUN-s6aFMTk)
+- [Why is IP a connectionless protocol?](https://stackoverflow.com/questions/4533686/why-do-we-say-the-ip-protocol-in-tcp-ip-suite-is-connectionless)
 
 ## Interview Preparation Materials
 - [CN MCQs(chapter wise)](https://www.sanfoundry.com/computer-network-questions-answers/)
