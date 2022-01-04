@@ -10,3 +10,4 @@
 - [Link state routing protocol(video)](https://youtu.be/sDnIRhiolp8)
 - [Open Shortest Path First(OSPF)(video)](https://youtu.be/kfvJ8QVJscc)
 - [Border Gateway Protocol(BGP)](https://www.geeksforgeeks.org/border-gateway-protocol-bgp/)
+- [Border Gateway Protocol(video)](https://www.youtube.com/watch?v=O6tCoD5c_U0)
