@@ -83,3 +83,4 @@ A collection of articles,videos and other resources which cover important comput
 - [CN MCQs(chapter wise)](https://www.sanfoundry.com/computer-network-questions-answers/)
 - [Practice problems on CRC](https://www.gatevidyalay.com/tag/crc-in-computer-networks/)
 - [Practice problems on checksum](https://www.gatevidyalay.com/checksum-checksum-example-error-detection/)
+- [Practice problems on flow control](https://www.gatevidyalay.com/flow-control-protocols-practice-problems/)
