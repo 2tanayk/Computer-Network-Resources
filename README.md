@@ -81,3 +81,4 @@ A collection of articles,videos and other resources which cover important comput
 
 ## Interview Preparation Materials
 - [CN MCQs(chapter wise)](https://www.sanfoundry.com/computer-network-questions-answers/)
+- [Practice problems on CRC](https://www.gatevidyalay.com/tag/crc-in-computer-networks/)
