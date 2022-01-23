@@ -5,4 +5,6 @@
 - [Stop and Wait ARQ(video)(hindi)](https://www.youtube.com/watch?v=YIX1NfaUpsU&list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_&index=22)
 - [Stop and Wait ARQ](https://www.gatevidyalay.com/stop-and-wait-arq-sliding-window-protocols/)
 - [Go-Back-N ARQ(video)(hindi)](https://www.youtube.com/watch?v=zc88y9HTAOA&list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_&index=23)
+- [Go-Back-N ARQ](https://www.gatevidyalay.com/go-back-n-sliding-window-protocol/)
 - [Selective Repeat ARQ(video)(hindi)](https://www.youtube.com/watch?v=08y_Vrs1vHo&list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_&index=24)
+- [Selective Repeat ARQ](https://www.gatevidyalay.com/selective-repeat-sliding-window-protocol/)
