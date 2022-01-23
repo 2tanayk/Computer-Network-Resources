@@ -5,4 +5,6 @@
 - [CRC(with example)](https://www.gatevidyalay.com/cyclic-redundancy-check-crc-error-detection/)
 - [Checksum(video)](https://youtu.be/AtVWnyDDaDI)
 - [Checksum(with example)](https://www.gatevidyalay.com/checksum-checksum-example-error-detection/)
+- [Hamming code error detection(video)](https://youtu.be/1A_NcXxdoCc)
+- [Hamming code error correction(video)](https://youtu.be/wbH2VxzmoZk)
 - [Hamming code(with example)](https://www.geeksforgeeks.org/hamming-code-in-computer-network/)
