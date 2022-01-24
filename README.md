@@ -86,5 +86,6 @@ A collection of articles,videos and other resources which cover important comput
 - [Practice problems on flow control](https://www.gatevidyalay.com/flow-control-protocols-practice-problems/)
 - [Practice problems on CSMA/CD](https://www.gatevidyalay.com/tag/medium-access-control-protocol/)
 
-# Formula List
-- [Medium access control]()
+## Formula List
+- [Medium access control](https://github.com/2tanayk/Computer-Network-Resources/blob/main/multiple_access_protocol.md#formulas)
+- [Flow control](https://github.com/2tanayk/Computer-Network-Resources/blob/main/flow.md#formulas)
