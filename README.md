@@ -84,3 +84,4 @@ A collection of articles,videos and other resources which cover important comput
 - [Practice problems on CRC](https://www.gatevidyalay.com/tag/crc-in-computer-networks/)
 - [Practice problems on checksum](https://www.gatevidyalay.com/checksum-checksum-example-error-detection/)
 - [Practice problems on flow control](https://www.gatevidyalay.com/flow-control-protocols-practice-problems/)
+- [Practice problems on CSMA/CD](https://www.gatevidyalay.com/tag/medium-access-control-protocol/)
