@@ -9,4 +9,5 @@
 - [CSMA/CD(video)(hindi)](https://youtu.be/v_z888gQWq0)
 - [CSMA/CA(video)(hindi)](https://youtu.be/reQ938TeFHM)
 - [CSMA/CD(Carrier Sense Multiple Access/Collision Detection)](https://www.geeksforgeeks.org/collision-detection-csmacd/)
+- [Backoff algorithm CSMA/CD](https://www.gatevidyalay.com/binary-exponential-backoff-algorithm-csma-cd/)
 - [CSMA/CD numerical(video)(hindi)](https://youtu.be/oNOVfVcWBXc)
