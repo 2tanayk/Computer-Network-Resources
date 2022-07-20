@@ -80,6 +80,7 @@ A collection of articles,videos and other resources which cover important comput
 - [Why is IP a connectionless protocol?](https://stackoverflow.com/questions/4533686/why-do-we-say-the-ip-protocol-in-tcp-ip-suite-is-connectionless)
 - [Differences between Virtual Circuits and Datagram Networks](https://www.geeksforgeeks.org/differences-between-virtual-circuits-and-datagram-networks/)
 - [VLAN Explained(video)](https://youtu.be/jC6MJTh9fRE)
+- [Supernetting (video)(hindi)](https://youtu.be/5vmdV7ZtIF4)
 
 ## Interview Preparation Materials
 - [CN MCQs(chapter wise)](https://www.sanfoundry.com/computer-network-questions-answers/)
