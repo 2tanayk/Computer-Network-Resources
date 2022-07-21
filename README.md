@@ -82,6 +82,7 @@ A collection of articles,videos and other resources which cover important comput
 - [VLAN Explained(video)](https://youtu.be/jC6MJTh9fRE)
 - [Supernetting (video)(hindi)](https://youtu.be/5vmdV7ZtIF4)
 - [AAA framework and RADIUS(video)](https://youtu.be/feHpDc1cLXM)
+- [Do web browsers use different outgoing ports for different tabs?](https://superuser.com/questions/1055281/do-web-browsers-use-different-outgoing-ports-for-different-tabs)
 
 ## Interview Preparation Materials
 - [CN MCQs(chapter wise)](https://www.sanfoundry.com/computer-network-questions-answers/)
