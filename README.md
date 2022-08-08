@@ -83,6 +83,7 @@ A collection of articles,videos and other resources which cover important comput
 - [Supernetting (video)(hindi)](https://youtu.be/5vmdV7ZtIF4)
 - [AAA framework and RADIUS(video)](https://youtu.be/feHpDc1cLXM)
 - [Do web browsers use different outgoing ports for different tabs?](https://superuser.com/questions/1055281/do-web-browsers-use-different-outgoing-ports-for-different-tabs)
+- [What is load balancing(video)](https://youtu.be/sCR3SAVdyCc)
 
 ## Interview Preparation Materials
 - [CN MCQs(chapter wise)](https://www.sanfoundry.com/computer-network-questions-answers/)
