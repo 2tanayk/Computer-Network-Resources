@@ -85,6 +85,7 @@ A collection of articles,videos and other resources which cover important comput
 - [Do web browsers use different outgoing ports for different tabs?](https://superuser.com/questions/1055281/do-web-browsers-use-different-outgoing-ports-for-different-tabs)
 - [Proxy and reverse proxy](https://www.cloudflare.com/en-gb/learning/cdn/glossary/reverse-proxy/)
 - [What is load balancing(video)](https://youtu.be/sCR3SAVdyCc)
+- [What is caching? How a website is cached?](https://www.cloudflare.com/en-in/learning/cdn/what-is-caching/)
 
 ## Interview Preparation Materials
 - [CN MCQs(chapter wise)](https://www.sanfoundry.com/computer-network-questions-answers/)
