@@ -86,6 +86,7 @@ A collection of articles,videos and other resources which cover important comput
 - [Proxy and reverse proxy](https://www.cloudflare.com/en-gb/learning/cdn/glossary/reverse-proxy/)
 - [What is load balancing(video)](https://youtu.be/sCR3SAVdyCc)
 - [What is caching? How a website is cached?](https://www.cloudflare.com/en-in/learning/cdn/what-is-caching/)
+- [What is a default gateway?(video)](https://youtu.be/pCcJFdYNamc)
 
 ## Interview Preparation Materials
 - [CN MCQs(chapter wise)](https://www.sanfoundry.com/computer-network-questions-answers/)
